@@ -41,5 +41,5 @@ I plan to continue building more projects as I learn additional JavaScript conce
 <img width="1918" height="938" alt="Screenshot 2026-08-13 181147" src="https://github.com/user-attachments/assets/52ea5b91-705f-4fd6-8524-f656087c360b" />
 
 ## Live Demo
-[https://eliotcs.github.io/counter-app/](url)
+[View the Counter App](https://eliotcs.github.io/counter-app/)
 
